@@ -251,37 +251,7 @@ Puedes referenciarlas desde otros documentos o desde tu README principal.
 Ejemplo de uso en Markdown:
 
 ```markdown
-![Captura de ejemplo](img/0602b1a7-0a44-4bba-8a30-956ca7b846cc.png
+![Captura de ejemplo](img/0602b1a7-0a44-4bba-8a30-956ca7b846cc.png)
 ```
 
-Archivos presentes (nombres pueden variar):
 
-- `img/0602b1a7-0a44-4bba-8a30-956ca7b846cc.png`
-- `img/166add48-0491-4b93-bf33-d5db762676bf.png`
-- `img/6a8f19e6-2e8e-44e6-9a1f-ade823594129.png`
-
-> Puedes renombrar estas imágenes a algo más descriptivo (por ejemplo, `01-setup.png`, `02-agent.png`, etc.) y actualizar las referencias en este documento.
-
----
-
-## 9. Conclusiones y próximos pasos
-
-Con todo lo anterior, ya tienes:
-
-- Un IDE moderno instalado y configurado  
-- Un flujo de trabajo donde la IA te ayuda a programar  
-- Un pequeño script interactivo generado por el agente  
-- Ejemplos de cómo manejar errores en consola  
-- Este tutorial como documentación para tu repositorio
-
-Algunas ideas para seguir:
-
-- Añadir un menú para elegir idioma del saludo  
-- Convertir el script en una interfaz gráfica (`tkinter`)  
-- Crear pruebas automatizadas (`pytest` o `unittest`)  
-- Hacer que el agente genere una segunda demo (por ejemplo, un clasificador de texto simple)  
-- Documentar todo esto en tu canal de YouTube **Claud-IA** 💙
-
----
-
-¡Tutorial listo para usarse en la carpeta `docs/` de tu repositorio! 🚀
