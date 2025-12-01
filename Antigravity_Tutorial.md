@@ -257,7 +257,7 @@ Ejemplo de uso en Markdown:
 Archivos presentes (nombres pueden variar):
 
 - `img/0602b1a7-0a44-4bba-8a30-956ca7b846cc.png`
-- `img/166add48-0491-4b93-... .png`
+- `img/166add48-0491-4b93-bf33-d5db762676bf.png`
 - `img/6a8f19e6-2e8e-44e6-9a1f-ade823594129.png`
 
 > Puedes renombrar estas imágenes a algo más descriptivo (por ejemplo, `01-setup.png`, `02-agent.png`, etc.) y actualizar las referencias en este documento.
