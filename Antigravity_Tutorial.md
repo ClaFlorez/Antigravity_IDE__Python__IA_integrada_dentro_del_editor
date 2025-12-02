@@ -135,6 +135,10 @@ Dentro de la carpeta del proyecto:
 Si todo está bien configurado, se abrirá en el navegador el famoso cómic de XKCD sobre Python (id #353).  
 Eso confirma que Python y el entorno del IDE están funcionando correctamente.
 
+
+<p align="center">
+  <img src="img/3c29b2cd-ee7e-485f-917d-f889dcd24f8c.png" width="60%" alt="Custom configuration">
+</p>
 ---
 
 ## 5. Usar el Antigravity Agent para crear una demo de IA
@@ -145,6 +149,10 @@ Antigravity incluye un panel de agente de IA que puede crear y modificar archivo
 
 1. En el lado derecho del IDE, abrir la pestaña del **Agent**.  
 2. Allí verás un campo que dice algo como:
+
+<p align="center">
+  <img src="img/4a9ad72c-62a6-460e-a9fc-20438c78bfcd.png" width="60%" alt="Custom configuration">
+</p>
 
    ```text
    Ask anything (Ctrl+L)
@@ -157,6 +165,10 @@ Antigravity incluye un panel de agente de IA que puede crear y modificar archivo
 ### 5.2 Prompt utilizado para generar `ai_demo.py`
 
 En el campo de texto del agente, escribir (o pegar):
+
+<p align="center">
+  <img src="img/0602b1a7-0a44-4bba-8a30-956ca7b846cc.png" width="60%" alt="Custom configuration">
+</p>
 
 ```text
 Create a new Python file in this workspace called ai_demo.py.
@@ -248,6 +260,11 @@ Con esto comprobamos que:
 Durante el proceso aparecieron algunos errores que son normales cuando se combina IA + consola de Windows.
 
 ### 7.1 `Agent terminated due to error`
+
+
+<p align="center">
+  <img src="img/0602b1a7-0a44-4bba-8a30-956ca7b846cc.png" width="60%" alt="Custom configuration">
+</p>
 
 A veces, el agente intentó ejecutar un comando automático (por ejemplo, utilizando `Write-Output` en PowerShell) y terminó con un error.
 
