@@ -235,5 +235,68 @@ o usar la terminal integrada del IDE.
 - Generar más código con el agente  
 
 ---
+## 📸 Capturas reales del proceso
+
+A continuación se muestran imágenes reales tomadas durante la instalación, configuración y pruebas del IDE Antigravity con IA integrada.
+
+### 1. Inicio del Setup
+<p align="center">
+  <img src="img/01.png" width="60%" alt="Inicio del setup">
+</p>
+
+---
+
+### 2. Selección de flujo de configuración
+<p align="center">
+  <img src="img/0859b745-d57d-49e1-832b-50788f2e9990.png" width="60%" alt="Flujo de configuración">
+</p>
+
+---
+
+### 3. Configuración personalizada del agente
+<p align="center">
+  <img src="img/106e5a7e-0ae9-45ae-9cde-cd03808190d2.png" width="60%" alt="Configuración personalizada del agente">
+</p>
+
+---
+
+### 4. Keybindings y extensiones
+<p align="center">
+  <img src="img/166add48-0491-4b93-bf33-d5db762676bf.png" width="60%" alt="Keybindings y extensiones">
+</p>
+
+---
+
+### 5. Login con Google
+<p align="center">
+  <img src="img/2ca381ad-3bf3-4235-ac32-0be7fda8d081.png" width="60%" alt="Login con Google">
+</p>
+
+---
+
+### 6. Autenticación exitosa
+<p align="center">
+  <img src="img/3c29b2cd-ee7e-485f-917d-f889dcd248fc.png" width="60%" alt="Autenticación exitosa">
+</p>
+
+---
+
+### 7. Términos de uso de Antigravity
+<p align="center">
+  <img src="img/4a9ad72c-6a26-460e-a9fc-20438c7b8fcd.png" width="60%" alt="Términos de uso">
+</p>
+
+---
+
+### 8. Trust Workspace
+<p align="center">
+  <img src="img/55b64633-ebad-4e0e-ba6d-864b4df664c6.png" width="60%" alt="Trust Workspace">
+</p>
+
+---
+
+### 9. Workspace cargado
+<p align="center">
+  <img
 
 ¡Proyecto listo para GitHub 🚀!
