@@ -263,7 +263,7 @@ Durante el proceso aparecieron algunos errores que son normales cuando se combin
 
 
 <p align="center">
-  <img src="img/0602b1a7-0a44-4bba-8a30-956ca7b846cc.png" width="60%" alt="Custom configuration">
+  <img src="img/af12b9e2-2a57-45a0-86e8-479c3504df8a.png" width="60%" alt="Custom configuration">
 </p>
 
 A veces, el agente intentó ejecutar un comando automático (por ejemplo, utilizando `Write-Output` en PowerShell) y terminó con un error.
