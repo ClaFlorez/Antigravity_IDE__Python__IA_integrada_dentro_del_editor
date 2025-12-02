@@ -255,3 +255,4 @@ Ejemplo de uso en Markdown:
 ```
 
 
+![TEST](img/01.png)
