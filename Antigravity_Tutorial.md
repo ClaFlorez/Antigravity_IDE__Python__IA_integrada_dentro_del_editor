@@ -1,5 +1,4 @@
 # 📘 Tutorial Completo – Antigravity IDE + Python + IA  
-*Documento de soporte para tu repositorio (carpeta `docs/`).*
 
 Este tutorial explica paso a paso cómo:
 
