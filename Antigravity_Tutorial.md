@@ -78,6 +78,10 @@ python --version
 
 9. Si aparece el botón **Reload Window**, pulsarlo.  
    Esto solo recarga el editor, no reinicia Windows.
+<p align="center">
+  <img src="img/2ca381ad-3bf3-4235-ac32-0be7fda8d081.png" width="60%" alt="Custom configuration">
+</p>
+ 
 
 ---
 
@@ -89,6 +93,10 @@ python --version
    ```text
    antigravity_test
    ```
+
+<p align="center">
+  <img src="img/106e5a7e-0ae9-45ae-9cde-cd03808190d2.png" width="60%" alt="Custom configuration">
+</p>
 
 3. Abrir esa carpeta con el IDE.  
 4. Si vuelve a aparecer la pregunta de confianza, elegir otra vez:
@@ -117,6 +125,12 @@ Dentro de la carpeta del proyecto:
 
    - Botón **Run Python File**, o  
    - Menú **Run → Run Without Debugging**
+
+  <p align="center">
+  <img src="img/106e5a7e-0ae9-45ae-9cde-cd03808190d2.png" width="60%" alt="Custom configuration">
+</p>
+
+   
 
 Si todo está bien configurado, se abrirá en el navegador el famoso cómic de XKCD sobre Python (id #353).  
 Eso confirma que Python y el entorno del IDE están funcionando correctamente.
