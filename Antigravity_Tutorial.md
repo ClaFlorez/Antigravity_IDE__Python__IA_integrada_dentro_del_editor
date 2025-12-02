@@ -127,7 +127,7 @@ Dentro de la carpeta del proyecto:
    - Menú **Run → Run Without Debugging**
 
   <p align="center">
-  <img src="img/106e5a7e-0ae9-45ae-9cde-cd03808190d2.png" width="60%" alt="Custom configuration">
+  <img src="img/106e5a7e-0ae9-45ae-9cde-cd03808190d2.png" width="60%">
 </p>
 
    
@@ -137,7 +137,7 @@ Eso confirma que Python y el entorno del IDE están funcionando correctamente.
 
 
 <p align="center">
-  <img src="img/3c29b2cd-ee7e-485f-917d-f889dcd24f8c.png" width="60%" alt="Custom configuration">
+  <img src="img/3c29b2cd-ee7e-485f-917d-f889dcd24f8c.png" width="60%" >
 </p>
 ---
 
@@ -151,7 +151,7 @@ Antigravity incluye un panel de agente de IA que puede crear y modificar archivo
 2. Allí verás un campo que dice algo como:
 
 <p align="center">
-  <img src="img/4a9ad72c-62a6-460e-a9fc-20438c78bfcd.png" width="60%" alt="Custom configuration">
+  <img src="img/4a9ad72c-62a6-460e-a9fc-20438c78bfcd.png" width="60%" >
 </p>
 
    ```text
@@ -167,7 +167,7 @@ Antigravity incluye un panel de agente de IA que puede crear y modificar archivo
 En el campo de texto del agente, escribir (o pegar):
 
 <p align="center">
-  <img src="img/0602b1a7-0a44-4bba-8a30-956ca7b846cc.png" width="60%" alt="Custom configuration">
+  <img src="img/01.png" width="60%" >
 </p>
 
 ```text
@@ -296,14 +296,4 @@ En nuestro caso, el programa funcionó correctamente al ejecutarlo manualmente.
 
 ---
 
-## 8. Imágenes reales del proceso
-
-En esta carpeta (`docs/img/`) se guardan capturas reales de la configuración y uso del IDE.  
-Puedes referenciarlas desde otros documentos o desde tu README principal.
-
-Ejemplo de uso en Markdown:
-
-```markdown
-![Captura de ejemplo](img/01.PNG)
-```
 
