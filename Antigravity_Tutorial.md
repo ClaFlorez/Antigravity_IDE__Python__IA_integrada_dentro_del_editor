@@ -251,7 +251,7 @@ Puedes referenciarlas desde otros documentos o desde tu README principal.
 Ejemplo de uso en Markdown:
 
 ```markdown
-![Captura de ejemplo]([img/01.png])
+![Captura de ejemplo](img/01.png)
 ```
 
 
