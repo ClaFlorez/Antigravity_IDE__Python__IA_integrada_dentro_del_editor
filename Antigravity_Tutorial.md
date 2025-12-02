@@ -71,6 +71,10 @@ python --version
    > Do you trust the authors of the files in this folder?
 
    seleccionar **Yes, I trust the authors** para activar todas las funciones.
+   
+<p align="center">
+  <img src="img/a50816f7-8bd8-4cfe-b997-84ec0fb35e13.png" width="60%" alt="Custom configuration">
+</p>
 
 9. Si aparece el botón **Reload Window**, pulsarlo.  
    Esto solo recarga el editor, no reinicia Windows.
