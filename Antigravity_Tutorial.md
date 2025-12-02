@@ -28,6 +28,11 @@ python --version
 
 ## 2. Configuración inicial del IDE
 
+<p align="center">
+  <img src="img/a1b3d2c3-7744-4313-b54d-a1a029653c87.png" width="60%" alt="Pantalla inicial del setup">
+</p>
+
+
 1. Abrir Antigravity IDE por primera vez.  
 2. En la pantalla de inicio de configuración elegir:
 
@@ -39,6 +44,11 @@ python --version
    - Terminal execution policy: `Auto`  
    - Review policy: `Request Review` ✔  
    - JavaScript execution: `Always Ask` ✔  
+
+<p align="center">
+  <img src="img/a1b3d2c3-7744-4313-b54d-a1a029653c87.png" width="60%" alt="Pantalla inicial del setup">
+</p>
+
 
 4. En la parte del editor:
 
@@ -254,5 +264,3 @@ Ejemplo de uso en Markdown:
 ![Captura de ejemplo](img/01.PNG)
 ```
 
-
-![TEST](img/01.png)
