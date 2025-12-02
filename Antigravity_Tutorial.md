@@ -251,7 +251,7 @@ Puedes referenciarlas desde otros documentos o desde tu README principal.
 Ejemplo de uso en Markdown:
 
 ```markdown
-![Captura de ejemplo](img/01.png)
+![Captura de ejemplo]([img/01.png](https://github.com/ClaFlorez/Antigravity_IDE__Python__IA_integrada_dentro_del_editor/blob/main/img/01.png))
 ```
 
 
