@@ -46,25 +46,33 @@ python --version
    - JavaScript execution: `Always Ask` ✔  
 
 <p align="center">
-  <img src="img/a1b3d2c3-7744-4313-b54d-a1a029653c87.png" width="60%" alt="Pantalla inicial del setup">
+  <img src="img/5771cefe-fffa-4f43-9c80-57924220bca5.png" width="60%" alt="Custom configuration">
 </p>
 
 
 4. En la parte del editor:
 
+<p align="center">
+  <img src="img/8011befe-9332-4092-9831-386df26a78a1.png" width="60%" alt="Custom configuration">
+</p>
+
    - Keybindings: **Normal**  
    - Instalar extensiones recomendadas (por ejemplo: *Install 7 Extensions*).
 
-5. Si lo deseas, iniciar sesión con **Google** para activar funciones extra del IDE.  
+6. Si lo deseas, iniciar sesión con **Google** para activar funciones extra del IDE.  
    Cuando veas el mensaje *“You have successfully authenticated”*, volver al IDE y aceptar los términos de uso.
 
-6. Cuando el IDE pregunte:
+<p align="center">
+  <img src="img/166add48-0491-4b93-bf33-d5db762676bf.png" width="60%" alt="Custom configuration">
+</p>
+
+8. Cuando el IDE pregunte:
 
    > Do you trust the authors of the files in this folder?
 
    seleccionar **Yes, I trust the authors** para activar todas las funciones.
 
-7. Si aparece el botón **Reload Window**, pulsarlo.  
+9. Si aparece el botón **Reload Window**, pulsarlo.  
    Esto solo recarga el editor, no reinicia Windows.
 
 ---
